@@ -1,9 +1,5 @@
 # Socket.IO C++ Client
-[![Build Status](https://travis-ci.org/socketio/socket.io-client-cpp.svg)](https://travis-ci.org/socketio/socket.io-client-cpp)
-
-By virtue of being written in C++, this client works in several different platforms. The [examples](https://github.com/socketio/socket.io-client-cpp/tree/master/examples) folder contains an iPhone, QT and Console example chat client! It depends on [websocket++](https://github.com/zaphoyd/websocketpp) and is inspired by [socket.io-clientpp](https://github.com/ebshimizu/socket.io-clientpp).
-
-[![Clients with iPhone, QT, Console and web](https://cldup.com/ukvVVZmvYV.png)](https://github.com/socketio/socket.io-client-cpp/tree/master/examples)
+This is a fork of C++ implementation of socket.io-client-cpp from [socket.io-clientpp](https://github.com/socketio/socket.io-client-cpp)
 
 ## Features
 
@@ -19,10 +15,6 @@ By virtue of being written in C++, this client works in several different platfo
 
 * [With CMAKE](./INSTALL.md#with-cmake)
 * [Without CMAKE](./INSTALL.md#without-cmake)
-* [iOS and OS X](./INSTALL_IOS.md)
- * Option 1: Cocoapods
- * Option 2: Create a static library
- * Option 3: Manual integration
 
 
 ## Quickstart
